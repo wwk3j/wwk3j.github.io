@@ -1,0 +1,3 @@
+Domain layforce.com
+URL layforce.com
+Type Redirect (301)
